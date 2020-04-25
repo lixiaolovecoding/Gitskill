@@ -5,3 +5,6 @@
 git 三板斧  git add  git commit -m  git push 
 为何不能提交
 
+
+3.分支开发，需要首先自己 git branch lixiao， 然后git checkout lixiao
+
